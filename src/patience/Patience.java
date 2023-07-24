@@ -1,7 +1,7 @@
 package patience;
 
 /**
- * This is the main class for playing the patience game.
+ * This is the main class for playing the patience game. 
  */
 
 public class Patience {
